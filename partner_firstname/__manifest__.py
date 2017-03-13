@@ -10,6 +10,7 @@
     'version': '10.0.1.0.0',
     'author': "Camptocamp, "
               "Grupo ESOC Ingeniería de Servicios, "
+              "ACSONE SA/NV, "
               "Odoo Community Association (OCA)",
     'license': "AGPL-3",
     'maintainer': 'Camptocamp, Acsone',
